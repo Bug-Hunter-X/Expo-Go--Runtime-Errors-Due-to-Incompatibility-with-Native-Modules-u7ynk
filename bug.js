@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an app that uses a module that is not compatible with Expo Go. This can happen if you are using a native module that is not supported by Expo Go, or if you are using a module that requires a specific version of React Native that is not supported by Expo Go.
